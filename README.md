@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman Yılmaztürk</h1>
-<h3 align="center">Unity Developer at Red Axe Games</h3>
+<h3 align="center">Unity Developer at Nokta Games</h3>
 
 - 🔭 I’m currently working on [Supermarket Simulator](https://store.steampowered.com/app/2670630/Supermarket_Simulator/)
 
