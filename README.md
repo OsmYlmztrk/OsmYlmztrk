@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Supermarket Simulator](https://store.steampowered.com/app/2670630/Supermarket_Simulator/)
 
-- 🌱 I’m currently learning **DOTS - Multithreading - Shader Development**
-
 - 👨‍💻 All of my projects are available at [https://sodauser.itch.io/](https://sodauser.itch.io/)
 
 - 📫 How to reach me **osmanyilmazturk20@gmail.com**
